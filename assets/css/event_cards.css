@@ -1,0 +1,23 @@
+#event_cards .card{
+	font-family: 'Open Sans' !important;
+	border: solid 1px #ffffff;
+	padding: 30px 20px 20px 20px;
+	background:transparent;
+	text-align:left;
+	color:white;
+}
+
+#event_cards .card:hover {
+	background-color: rgba(255, 255, 255, 0.075);
+	box-shadow:0px transparent;
+	transition-duration:0.5s;
+}
+
+
+section{
+	padding:30px;
+}
+
+#event_cards {
+	padding: 15px;
+}
